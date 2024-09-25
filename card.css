@@ -1,1 +1,17 @@
-.card
+
+
+body{
+    height: 100px;
+    display: flex;
+}
+
+.card{
+    display: flex;
+    height: 400px;
+    border: 1px solid red;
+    width: 800px;
+}
+
+.card-body{
+    border: 1px solid green;
+}
